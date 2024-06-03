@@ -26,6 +26,7 @@
    - Identification of data sources and data cleaning. 
    - In-depth analysis of risk factors associated with cardiovascular diseases.
    - Use of the Cox survival model to analyze patient survival time.
+
 ---
 
 ## **Education**
