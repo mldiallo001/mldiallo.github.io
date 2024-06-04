@@ -1,4 +1,4 @@
-Bonjour, 👋 moi, c'est **Ményssa**, Data scientist et Formatrice freelance.
+Bonjour, 👋 moi, c'est **Lamarana**, Data scientist et freelance.
 
 Je suis passionnée par la transformation des données ennuyeuses en histoires captivantes – un peu comme un chef qui transforme des pois chiches en steak ! 
 
